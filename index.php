@@ -13,7 +13,9 @@ and open the template in the editor.
         <?php
         echo "hola mundo soy david jarreta";
         echo "segunda linea";
-        echo "tercera linea de echo"
+        echo "tercera linea de echo";
+        echo "cuarta linea para el apartado 4c";
+        
         ?>
     </body>
 </html>
